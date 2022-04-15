@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vergosss
-- 👀 I’m interested in ... Computer Networks , Alogirthms and Data Structures
+- 👀 I’m interested in ... Computer Networks , Algoirthms and Data Structures
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
