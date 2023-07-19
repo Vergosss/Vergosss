@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Georgios Vergos a 4th year student at Computer Engineering and Informatics Department, University of Patras
+- 👋 Hi, I’m Georgios Vergos a 4th year student at Computer Engineering and Informatics Department, University of Patras.
 - 👀 I’m interested in  Computer Networks, Data Science, Databases and Machine Learning.
 - 🌱 I’m currently learning Python and libraries such as scikit-learn , pandas, numpy and RobotDART.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-- E-mail: giorgoslatenight7@gmail.com
+- E-mail: 1) giorgoslatenight7@gmail.com
+-         2) up1072604@upnet.gr
 - 
 
 <!---
