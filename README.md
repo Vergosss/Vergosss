@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - E-mail: 1) giorgoslatenight7@gmail.com
--         2) up1072604@upnet.gr
+-         2) up1072604@ac.upatras.gr
 <!---
 Vergosss/Vergosss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
