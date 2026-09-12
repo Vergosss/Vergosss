@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Georgios Vergos a Graduate from the Computer Engineering and Informatics Department, University of Patras, Greece.
-- 👀 I’m interested in  Computer Networks and Security, Information retrieval and Machine Learning.
-- 🌱 I’m currently learning Python libraries such as scikit-learn , pandas, numpy, tensorflow, nltk.
-- I'm also currently learning web technologies such as HTML5,CSS, Javascript, Node.js.
+- 👋 Hi, I’m Georgios Vergos a Graduate  Computer Engineer from the Computer Engineering and Informatics Department, University of Patras, Greece.
+- 👀 I’m interested in  Computer Security, Information retrieval, Machine Learning and Web Development.
+- 🌱 I’m currently learning Python libraries such as scikit-learn , pandas, , tensorflow.
+- I'm also currently learning web technologies such as HTML5,CSS, Javascript, Node.js and ReactJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - E-mail: 1) giorgoslatenight7@gmail.com
