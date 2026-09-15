@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Georgios Vergos a Graduate  Computer Engineer from the Computer Engineering and Informatics Department, University of Patras, Greece.
+- 👋 Hi, I’m Georgios Vergos a Computer Engineering Graduate from the Computer Engineering and Informatics Department, University of Patras, Greece.
 - 👀 I’m interested in  Computer Security, Information retrieval, Machine Learning and Web Development.
 - 🌱 I’m currently learning Python libraries such as scikit-learn , pandas, , tensorflow.
 - I'm also currently learning web technologies such as HTML5,CSS, Javascript, Node.js and ReactJS.
