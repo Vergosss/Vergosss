@@ -4,7 +4,7 @@
 - I'm also currently learning web technologies such as HTML5,CSS, Javascript, Node.js and ReactJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-- E-mail: 1) giorgoslatenight7@gmail.com
+- E-mail: 1) vergosgewrgios@gmail.com
 -         2) up1072604@ac.upatras.gr
 <!---
 Vergosss/Vergosss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
